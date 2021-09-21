@@ -1,3 +1,5 @@
+# This code is from the course in Udemy - The Complete Web Developer in 2021: Zero to Mastery.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
