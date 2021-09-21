@@ -1,4 +1,4 @@
-# This code is from the course in Udemy - The Complete Web Developer in 2021: Zero to Mastery.
+# This code is based from the course in Udemy - The Complete Web Developer in 2021: Zero to Mastery.
 
 # Getting Started with Create React App
 
